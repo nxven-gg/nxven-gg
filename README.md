@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nxven-gg
+- 👀 I’m interested in Front-End 
+- 🌱 I’m currently learning Shopify Liquid
+- 💞️ I’m looking to collaborate on any HTML, JS & CSS
+- 📫 How to reach me: @tech.nat66@gmail.com
+- ⚡ Fun fact: Learnt fricking html,css & js in 10 minutes
